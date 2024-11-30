@@ -96,7 +96,7 @@ export const assests={
   ]
   export const food_list=[
     {
-        id:"1",
+        _id:"1",
         name:"Greek salad",
         image:food_1,
         price:12,
@@ -104,7 +104,7 @@ export const assests={
         category:"Salad"
     },
     {
-        id:"2",
+        _id:"2",
         name:"Veg salad",
         image:food_2,
         price:13,
@@ -112,7 +112,7 @@ export const assests={
         category:"Salad"
     },
     {
-        id:"3",
+        _id:"3",
         name:"Veg salad",
         image:food_3,
         price:16,
@@ -120,7 +120,7 @@ export const assests={
         category:"Salad"
     },
     {
-        id:"4",
+        _id:"4",
         name:"Veg salad",
         image:food_4,
         price:19,
@@ -128,7 +128,7 @@ export const assests={
         category:"Salad"
     },
     {
-        id:"5",
+        _id:"5",
         name:"Veg pasta",
         image:food_5,
         price:20,
@@ -136,7 +136,7 @@ export const assests={
         category:"pasta"
     },
     {
-        id:"6",
+        _id:"6",
         name:"Veg pasta",
         image:food_6,
         price:22,
@@ -144,7 +144,7 @@ export const assests={
         category:"pasta"
     },
     {
-        id:"7",
+        _id:"7",
         name:"Veg pasta",
         image:food_7,
         price:25,
@@ -152,7 +152,7 @@ export const assests={
         category:"pasta"
     },
     {
-        id:"8",
+        _id:"8",
         name:"Veg pasta",
         image:food_8,
         price:27,
@@ -160,7 +160,7 @@ export const assests={
         category:"pasta"
     },
     {
-        id:"9",
+        _id:"9",
         name:"pure veg",
         image:food_9,
         price:30,
@@ -168,7 +168,7 @@ export const assests={
         category:"veg"
     },
     {
-        id:"10",
+        _id:"10",
         name:"pure veg",
         image:food_10,
         price:32,
@@ -176,7 +176,7 @@ export const assests={
         category:"veg"
     },
     {
-        id:"11",
+        _id:"11",
         name:" pure Veg ",
         image:food_11,
         price:41,
@@ -184,7 +184,7 @@ export const assests={
         category:"veg"
     },
     {
-        id:"12",
+        _id:"12",
         name:" pure Veg",
         image:food_12,
         price:43,
@@ -192,7 +192,7 @@ export const assests={
         category:"veg"
     },
     {
-        id:"13",
+        _id:"13",
         name:"noodles",
         image:food_13,
         price:45,
@@ -200,7 +200,7 @@ export const assests={
         category:"noodels"
     },
     {
-        id:"14",
+        _id:"14",
         name:"noodles",
         image:food_14,
         price:55,
@@ -208,7 +208,7 @@ export const assests={
         category:"noodles"
     },
     {
-        id:"15",
+        _id:"15",
         name:"noodles",
         image:food_15,
         price:56,
@@ -216,7 +216,7 @@ export const assests={
         category:"noodles"
     },
     {
-        id:"16",
+        _id:"16",
         name:" noodles",
         image:food_16,
         price:58,
@@ -224,7 +224,7 @@ export const assests={
         category:"noodles"
     },
     {
-        id:"17",
+        _id:"17",
         name:"desserts",
         image:food_17,
         price:62,
@@ -232,7 +232,7 @@ export const assests={
         category:"desserts"
     },
     {
-        id:"18",
+        _id:"18",
         name:"desserts",
         image:food_18,
         price:65,
@@ -240,7 +240,7 @@ export const assests={
         category:"desserts"
     },
     {
-        id:"19",
+        _id:"19",
         name:"desserts",
         image:food_19,
         price:70,
@@ -256,7 +256,7 @@ export const assests={
         category:"desserts"
     },
     {
-        id:"21",
+        _id:"21",
         name:"cake",
         image:food_21,
         price:80,
@@ -264,7 +264,7 @@ export const assests={
         category:"cake"
     },
     {
-        id:"22",
+        _id:"22",
         name:"cake",
         image:food_22,
         price:85,
@@ -272,7 +272,7 @@ export const assests={
         category:"cake"
     },
     {
-        id:"23",
+        _id:"23",
         name:"cake",
         image:food_23,
         price:95,
@@ -280,7 +280,7 @@ export const assests={
         category:"cake"
     },
     {
-        id:"24",
+        _id:"24",
         name:"cake",
         image:food_24,
         price:95,
@@ -288,7 +288,7 @@ export const assests={
         category:"cake"
     },
     {
-        id:"25",
+        _id:"25",
         name:"rolls",
         image:food_25,
         price:105,
@@ -304,7 +304,7 @@ export const assests={
         category:"rolls"
     },
     {
-        id:"27",
+        _id:"27",
         name:"rolls",
         image:food_27,
         price:115,
@@ -320,7 +320,7 @@ export const assests={
         category:"rolls"
     },
     {
-        id:"29",
+        _id:"29",
         name:"sandwich",
         image:food_29,
         price:125,
@@ -328,7 +328,7 @@ export const assests={
         category:"sandwich"
     },
     {
-        id:"30",
+        _id:"30",
         name:"sandwich",
         image:food_30,
         price:130,
@@ -336,7 +336,7 @@ export const assests={
         category:"sandwich"
     },
     {
-        id:"31",
+        _id:"31",
         name:"sandwich",
         image:food_31,
         price:135,
@@ -344,7 +344,7 @@ export const assests={
         category:"sandwich"
     },
     {
-        id:"32",
+        _id:"32",
         name:"sandwich",
         image:food_32,
         price:145,
